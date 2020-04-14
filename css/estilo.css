@@ -1,0 +1,61 @@
+section#about h2 {
+    text-align: center;
+}
+
+button.btn.btn-success {
+    margin-bottom: 10px;
+}
+
+.centrerbutton {
+    text-align: center;
+}
+
+p.m-0.text-center.text-white a {
+    color: #fff;
+}
+
+p.m-0.text-center.text-white a:hover {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a.navbar-brand img {
+    width: 50px;
+}
+
+.bg-dark {
+    background-color: #1b1f22!important;
+}
+
+footer.py-5.bg-dark {
+    height: 50px !important;
+    display: block;
+    padding: 15px !important;
+    bottom: 0 !important;
+      position: fixed;
+    width: 100%;
+}
+
+section#servico {
+    margin-bottom: 50px;
+}
+
+section#servicos {
+    padding-top: 50px !important;
+    padding-bottom: 10px !important;
+}
+
+section#servico h2,
+section#servicos h2 {
+    font-size: x-large;
+}
+
+button.btn.btn-success a {
+    color: #fff !important;
+}
+
+
+button.btn.btn-success a:hover {
+    color: #fff !important;
+    text-decoration: none;
+}
