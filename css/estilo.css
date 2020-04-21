@@ -28,16 +28,12 @@ a.navbar-brand img {
 }
 
 footer.py-5.bg-dark {
-    height: 50px !important;
+    /* height: 80px !important; */
     display: block;
-    padding: 15px !important;
+    padding: 0 !important;
     bottom: 0 !important;
-      position: fixed;
+    position: fixed;
     width: 100%;
-}
-
-section#servico {
-    margin-bottom: 50px;
 }
 
 section#servicos {
@@ -59,3 +55,29 @@ button.btn.btn-success a:hover {
     color: #fff !important;
     text-decoration: none;
 }
+
+.emailsm {
+    padding: 24px;
+    width: 50%;
+    float: right;
+}
+
+.deaftech {
+    padding: 10px;
+    background: #ffffff;
+    width: 50%;
+    float: left;
+    border: 1px solid #000;
+}
+
+.deaftech p.m-0.text-center.text-white a {
+    color: #000 !important;
+}
+
+
+
+@media (min-width: 400px) and (max-width: 1000px) {
+    section#servico {
+        margin-bottom: 200px;
+    }
+  }
