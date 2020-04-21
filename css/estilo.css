@@ -81,3 +81,12 @@ button.btn.btn-success a:hover {
         margin-bottom: 200px;
     }
   }
+
+
+
+  
+@media (min-width: 100px) and (max-width: 400px) {
+    section#servico {
+        margin-bottom: 200px;
+    }
+  }
