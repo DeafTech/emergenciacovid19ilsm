@@ -57,9 +57,10 @@ button.btn.btn-success a:hover {
 }
 
 .emailsm {
-    padding: 24px;
+    /* padding: 24px; */
     width: 50%;
     float: right;
+    line-height: 72px;
 }
 
 .deaftech {
@@ -74,16 +75,11 @@ button.btn.btn-success a:hover {
     color: #000 !important;
 }
 
-
-
 @media (min-width: 400px) and (max-width: 1000px) {
     section#servico {
         margin-bottom: 200px;
     }
   }
-
-
-
   
 @media (min-width: 100px) and (max-width: 400px) {
     section#servico {
